@@ -1,0 +1,46 @@
+[
+  {
+    "dataAdmissao": "2026-06-02",
+    "matricula": "1009587",
+    "nome": "COLABORADOR EXEMPLO",
+    "checkbox_nome_social": false,
+    "nome_registro": null,
+    "pis": "00000000000",
+    "regimeTrabalho": "CLT",
+    "bate_ponto": "Ponto Livre",
+    "cargo": "0325-ANALISTA DE RPA JUNIOR",
+    "dataCargo": "2026-06-02",
+    "carga_horaria": "220",
+    "centroCusto": "151.4121",
+    "cnpj": "02730521000120",
+    "codInterno": "1|009587",
+    "cpf": "00000000000",
+    "ctps": "",
+    "dataCnpj": null,
+    "dataDemissao": null,
+    "dataNascimento": "1990-01-01",
+    "departamento": "01.1.01.01.015-Sg&A Administrativo - TI",
+    "email": "colaborador@exemplo.com",
+    "email_chefia": "chefia@exemplo.com",
+    "escala_padrao": "10005",
+    "lastChangeDefaultSchedule": "2026-06-02",
+    "localizacoes": [
+      "Sg&A Administrativo - TI",
+      "Sg&A Administrativo - Departamento Pessoal"
+    ],
+    "matricula_chefia": "000000000000",
+    "matricula_esocial": "XXXXX0000000",
+    "nome_chefia": "Chefia Exemplo",
+    "rg": "0000000",
+    "sem_pis": false,
+    "sexo": "M",
+    "telefone": "61900000000",
+    "codSindicato": "0001",
+    "data_troca_elegibilidade_ponto": null,
+    "matricula_anterior": "",
+    "custo_da_hora": "0,00",
+    "financeiro": {
+      "salario": "0,00"
+    }
+  }
+]

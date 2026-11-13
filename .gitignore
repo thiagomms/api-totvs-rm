@@ -1,0 +1,16 @@
+# Credenciais e ambiente local
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.vscode/
+*.log
+
+# Dados reais de colaboradores (nomes/matriculas) - nao versionar
+TEST-ERICK/*.xlsx
+TEST-ERICK/*.json
+.env.*
+!.env.example

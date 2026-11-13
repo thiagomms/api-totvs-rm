@@ -1,0 +1,10 @@
+[
+  {
+    "matricula": "0001234",
+    "nome": "COLABORADOR EXEMPLO",
+    "localizacoes": [
+      "SEDE",
+      "GAMA"
+    ]
+  }
+]

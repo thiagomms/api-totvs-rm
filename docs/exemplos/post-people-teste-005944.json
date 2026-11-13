@@ -1,0 +1,11 @@
+[
+  {
+    "matricula": "005944",
+    "nome": "COLABORADOR EXEMPLO",
+    "sem_pis": true,
+    "cpf": "000.000.000-00",
+    "localizacoes": [
+      "ESCRITÓRIO  CAESB GAMA"
+    ]
+  }
+]

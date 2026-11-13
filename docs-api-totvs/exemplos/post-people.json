@@ -1,0 +1,13 @@
+[
+  {
+    "matricula": "1000000",
+    "nome": "COLABORADOR EXEMPLO",
+    "pis": "00000000000",
+    "dataAdmissao": "2026-01-01",
+    "regimeTrabalho": "CLT",
+    "codInterno": "1|000000",
+    "cargo": "0000-CARGO EXEMPLO",
+    "departamento": "00.0.00.00.000-Departamento Exemplo",
+    "localizacoes": ["Descrição exata da seção no RM"]
+  }
+]

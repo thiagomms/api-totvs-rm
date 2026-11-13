@@ -1,0 +1,12 @@
+[
+  {
+    "matricula": "1000000",
+    "inicio": "2026-10-06T08:00",
+    "fim": "2026-10-06T18:00",
+    "motivo": "Atestado Médico",
+    "operation": "INS",
+    "cod_interno": "abono-1000000-exemplo",
+    "cid": "J11",
+    "crm": "12345-DF"
+  }
+]

@@ -1,0 +1,2404 @@
+{
+    "list": [
+        {
+            "label": "ADMINISTRA\u00c7\u00c3O",
+            "key": "ADMINISTRA\u00c7\u00c3O",
+            "disabled": false
+        },
+        {
+            "label": "ADMINISTRA\u00c7\u00c3O FILIAL - GO",
+            "key": "ADMINISTRA\u00c7\u00c3O FILIAL - GO",
+            "disabled": false
+        },
+        {
+            "label": "ADMINISTRATIVO - OPERACIONAL",
+            "key": "ADMINISTRATIVO - OPERACIONAL",
+            "disabled": false
+        },
+        {
+            "label": "ADOLESCENTRO ASA SUL LT I",
+            "key": "ADOLESCENTRO ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "AMBULATORIO CEILANDIA - LOTE II",
+            "key": "AMBULATORIO CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "AMBULATORIO SAMAMBAIA LT I",
+            "key": "AMBULATORIO SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "ASF SOBRADINHO -  LOTE III",
+            "key": "ASF SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "BASE DO SAMU ASA SUL LT I",
+            "key": "BASE DO SAMU ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "BASE SAMU GAMA  LT I",
+            "key": "BASE SAMU GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "BASE SAMU I SAMAMBAIA LT I",
+            "key": "BASE SAMU I SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "BASE SAMU II SAMAMBAIA LT I",
+            "key": "BASE SAMU II SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "BASE SAMU PATIO CAPITAL \u00c1GUAS CLARAS  LT I",
+            "key": "BASE SAMU PATIO CAPITAL \u00c1GUAS CLARAS  LT I",
+            "disabled": false
+        },
+        {
+            "label": "BASE SAMU SANTA MARIA LT I",
+            "key": "BASE SAMU SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAESB",
+            "key": "CAESB",
+            "disabled": false
+        },
+        {
+            "label": "CAP.CON.001 - CAP\u00c3O DA ON\u00c7A",
+            "key": "CAP.CON.001 - CAP\u00c3O DA ON\u00c7A",
+            "disabled": false
+        },
+        {
+            "label": "CAPS AD i III ASA NORTE LT I",
+            "key": "CAPS AD i III ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAPS ad III  ASA SUL LT I",
+            "key": "CAPS ad III  ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAPS AD III SAMAMBAIA LT I",
+            "key": "CAPS AD III SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAPS AD- SOBRADINHO -  LOTE III",
+            "key": "CAPS AD- SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "CAPS II PARANO\u00c1- LT I",
+            "key": "CAPS II PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAPS II TAGUATINGA LT I",
+            "key": "CAPS II TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAPS III SAMAMBAIA LT I",
+            "key": "CAPS III SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAPS PLANALTINA -  LOTE III",
+            "key": "CAPS PLANALTINA -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "CAPS SANTA MARIA LT I",
+            "key": "CAPS SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CAPSi SOBRADINHO -  LOTE III",
+            "key": "CAPSi SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "CAPSi TAGUATINGA LT I",
+            "key": "CAPSi TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CASA DO DIABETICO PLANALTINA - LOTE III",
+            "key": "CASA DO DIABETICO PLANALTINA - LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "CEDIN ASA SUL LT I",
+            "key": "CEDIN ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "CEDOH ASA NORTE LT I",
+            "key": "CEDOH ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "CENTRAL DE MONITORAMENTO - TRAKING",
+            "key": "CENTRAL DE MONITORAMENTO - TRAKING",
+            "disabled": false
+        },
+        {
+            "label": "CENTRO DE CONTROLE - OPERACIONAL",
+            "key": "CENTRO DE CONTROLE - OPERACIONAL",
+            "disabled": false
+        },
+        {
+            "label": "CEO ASA SUL LT I",
+            "key": "CEO ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "CER II TAGUATINGA LT I",
+            "key": "CER II TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CERAC ASA SUL LT I",
+            "key": "CERAC ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "CEREST SANTA MARIA LT I",
+            "key": "CEREST SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CERPIS PLANALTINA - LOTE III",
+            "key": "CERPIS PLANALTINA - LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "CESMU ASA SUL LT I",
+            "key": "CESMU ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "Ciex",
+            "key": "Ciex",
+            "disabled": false
+        },
+        {
+            "label": "CIMENTO TOCANTINS S\/A",
+            "key": "CIMENTO TOCANTINS S\/A",
+            "disabled": false
+        },
+        {
+            "label": "COMPP ASA NORTE LT I",
+            "key": "COMPP ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "CONSELHO DE SAUDE ASA SUL LT I",
+            "key": "CONSELHO DE SAUDE ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "CONS\u00d3RCIO CATEDRAL - RODOVI\u00c1RIA",
+            "key": "CONS\u00d3RCIO CATEDRAL - RODOVI\u00c1RIA",
+            "disabled": false
+        },
+        {
+            "label": "CONSORCIO NOVO TERMINAL",
+            "key": "CONSORCIO NOVO TERMINAL",
+            "disabled": false
+        },
+        {
+            "label": "CONSULTORIO NA RUA ASA SUL LT I",
+            "key": "CONSULTORIO NA RUA ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "CR DE SA\u00daDE SAMAMBAIA LT I - ced HMIB",
+            "key": "CR DE SA\u00daDE SAMAMBAIA LT I - ced HMIB",
+            "disabled": false
+        },
+        {
+            "label": "CR JARDIM BRAS\u00cdLIA - AGUAS LINDAS",
+            "key": "CR JARDIM BRAS\u00cdLIA - AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "CRT TAGUATINGA LT I",
+            "key": "CRT TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "CS 03 PLANALTINA - PAM  LOTE III",
+            "key": "CS 03 PLANALTINA - PAM  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "DEPOSITO FERCAL LT I",
+            "key": "DEPOSITO FERCAL LT I",
+            "disabled": false
+        },
+        {
+            "label": "DIRAPS -PARANO\u00c1- LT I",
+            "key": "DIRAPS -PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "DIVAL \/ SVS \/ SES NOROESTE LT I - ZOONOSES",
+            "key": "DIVAL \/ SVS \/ SES NOROESTE LT I - ZOONOSES",
+            "disabled": false
+        },
+        {
+            "label": "DIVERSOS",
+            "key": "DIVERSOS",
+            "disabled": false
+        },
+        {
+            "label": "Diversos - Previd\u00eancia",
+            "key": "Diversos - Previd\u00eancia",
+            "disabled": false
+        },
+        {
+            "label": "DIVERSOS - PREVID\u00caNCIA - GO",
+            "key": "DIVERSOS - PREVID\u00caNCIA - GO",
+            "disabled": false
+        },
+        {
+            "label": "Diversos - Previd\u00eancia GO",
+            "key": "Diversos - Previd\u00eancia GO",
+            "disabled": false
+        },
+        {
+            "label": "EAB.BRC.001 - BARROC\u00c3O",
+            "key": "EAB.BRC.001 - BARROC\u00c3O",
+            "disabled": false
+        },
+        {
+            "label": "EAB.CCH.001 - CACHOEIRINHA",
+            "key": "EAB.CCH.001 - CACHOEIRINHA",
+            "disabled": false
+        },
+        {
+            "label": "EAB.CRG.001 - CORGUINHO",
+            "key": "EAB.CRG.001 - CORGUINHO",
+            "disabled": false
+        },
+        {
+            "label": "EAB.ENG.001 - ENGENHO LAGE",
+            "key": "EAB.ENG.001 - ENGENHO LAGE",
+            "disabled": false
+        },
+        {
+            "label": "EAB.FUM.001 - FUMAL",
+            "key": "EAB.FUM.001 - FUMAL",
+            "disabled": false
+        },
+        {
+            "label": "EAB.MDR.001 - MESTRE DARMAS",
+            "key": "EAB.MDR.001 - MESTRE DARMAS",
+            "disabled": false
+        },
+        {
+            "label": "EAB.ODG.001 - CAPTA\u00c7\u00c3O OLHOS D\u00c1GUA",
+            "key": "EAB.ODG.001 - CAPTA\u00c7\u00c3O OLHOS D\u00c1GUA",
+            "disabled": false
+        },
+        {
+            "label": "EAB.PIP.001 - PIPIRIPAU",
+            "key": "EAB.PIP.001 - PIPIRIPAU",
+            "disabled": false
+        },
+        {
+            "label": "EAB.RBA.001 - BANANAL - PORTARIA",
+            "key": "EAB.RBA.001 - BANANAL - PORTARIA",
+            "disabled": false
+        },
+        {
+            "label": "EAB.RDE.001 -BARRAGEM  DESCOBERTO",
+            "key": "EAB.RDE.001 -BARRAGEM  DESCOBERTO",
+            "disabled": false
+        },
+        {
+            "label": "EAB.RDE.001 -BARRAGEM  DESCOBERTO - MOTO",
+            "key": "EAB.RDE.001 -BARRAGEM  DESCOBERTO - MOTO",
+            "disabled": false
+        },
+        {
+            "label": "EAB.TOR.001 - GRANJA TORTO",
+            "key": "EAB.TOR.001 - GRANJA TORTO",
+            "disabled": false
+        },
+        {
+            "label": "EAB.TOR.001 - GRANJA TORTO - MOTO",
+            "key": "EAB.TOR.001 - GRANJA TORTO - MOTO",
+            "disabled": false
+        },
+        {
+            "label": "EAT.LNT.004 - MOTO",
+            "key": "EAT.LNT.004 - MOTO",
+            "disabled": false
+        },
+        {
+            "label": "EEB.PJK.001 -POLO JK",
+            "key": "EEB.PJK.001 -POLO JK",
+            "disabled": false
+        },
+        {
+            "label": "EEB.PLT.002 - PLANALTINA",
+            "key": "EEB.PLT.002 - PLANALTINA",
+            "disabled": false
+        },
+        {
+            "label": "EEB.TAG.002 - VILA AREAL",
+            "key": "EEB.TAG.002 - VILA AREAL",
+            "disabled": false
+        },
+        {
+            "label": "ELEV. ESGOTO BRUTO 8 J.PARAISO - AGUAS LINDAS",
+            "key": "ELEV. ESGOTO BRUTO 8 J.PARAISO - AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "EQUIPE INFRA- CAESB",
+            "key": "EQUIPE INFRA- CAESB",
+            "disabled": false
+        },
+        {
+            "label": "EQUIPE RUBI - LT I",
+            "key": "EQUIPE RUBI - LT I",
+            "disabled": false
+        },
+        {
+            "label": "EQUIPE TI",
+            "key": "EQUIPE TI",
+            "disabled": false
+        },
+        {
+            "label": "ESCOLA FRANCESA",
+            "key": "ESCOLA FRANCESA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO  CAESB  CEIL\u00c2NDIA",
+            "key": "ESCRIT\u00d3RIO  CAESB  CEIL\u00c2NDIA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO  CAESB GAMA",
+            "key": "ESCRIT\u00d3RIO  CAESB GAMA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO  CAESB PARANO\u00c1",
+            "key": "ESCRIT\u00d3RIO  CAESB PARANO\u00c1",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO  CAESB S\u00c3O SEBASTI\u00c3O",
+            "key": "ESCRIT\u00d3RIO  CAESB S\u00c3O SEBASTI\u00c3O",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO  CAESB TAGUATINGA",
+            "key": "ESCRIT\u00d3RIO  CAESB TAGUATINGA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB  N\u00daCLEO BANDEIRANTE",
+            "key": "ESCRIT\u00d3RIO CAESB  N\u00daCLEO BANDEIRANTE",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB BRAS\u00cdLIA",
+            "key": "ESCRIT\u00d3RIO CAESB BRAS\u00cdLIA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB GUAR\u00c1",
+            "key": "ESCRIT\u00d3RIO CAESB GUAR\u00c1",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB PLANALTINA",
+            "key": "ESCRIT\u00d3RIO CAESB PLANALTINA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB RECANTO DAS EMAS",
+            "key": "ESCRIT\u00d3RIO CAESB RECANTO DAS EMAS",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB SAMAMBAIA",
+            "key": "ESCRIT\u00d3RIO CAESB SAMAMBAIA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB SANTA MARIA",
+            "key": "ESCRIT\u00d3RIO CAESB SANTA MARIA",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CAESB SOBRADINHO",
+            "key": "ESCRIT\u00d3RIO CAESB SOBRADINHO",
+            "disabled": false
+        },
+        {
+            "label": "ESCRIT\u00d3RIO CONS\u00d3RCIO - AGUAS LINDAS",
+            "key": "ESCRIT\u00d3RIO CONS\u00d3RCIO - AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "ESCS SAMAMBAIA LT I",
+            "key": "ESCS SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "ESTA\u00c7\u00c3O. ELEV. \u00c1GUA BRUTA MOTO - LUZI\u00c2NIA",
+            "key": "ESTA\u00c7\u00c3O. ELEV. \u00c1GUA BRUTA MOTO - LUZI\u00c2NIA",
+            "disabled": false
+        },
+        {
+            "label": "ETA CORUMB\u00c1 - VALPARAISO GOIAS",
+            "key": "ETA CORUMB\u00c1 - VALPARAISO GOIAS",
+            "disabled": false
+        },
+        {
+            "label": "ETA CORUMB\u00c1 RONDA MOTO - VALPARAISO GOIAS",
+            "key": "ETA CORUMB\u00c1 RONDA MOTO - VALPARAISO GOIAS",
+            "disabled": false
+        },
+        {
+            "label": "ETA.BRZ.001 - BRAZL\u00c2DIA",
+            "key": "ETA.BRZ.001 - BRAZL\u00c2DIA",
+            "disabled": false
+        },
+        {
+            "label": "ETA.BSB.001 - BRAS\u00cdLIA",
+            "key": "ETA.BSB.001 - BRAS\u00cdLIA",
+            "disabled": false
+        },
+        {
+            "label": "ETA.BSB.001 - BRAS\u00cdLIA - MOTO",
+            "key": "ETA.BSB.001 - BRAS\u00cdLIA - MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETA.GAM.001 - GAMA",
+            "key": "ETA.GAM.001 - GAMA",
+            "disabled": false
+        },
+        {
+            "label": "ETA.LNT.001 - LAGO NORTE",
+            "key": "ETA.LNT.001 - LAGO NORTE",
+            "disabled": false
+        },
+        {
+            "label": "ETA.LSL.001 - LAGO SUL-MOTO",
+            "key": "ETA.LSL.001 - LAGO SUL-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETA.PIP.001- PIPIRIPAU",
+            "key": "ETA.PIP.001- PIPIRIPAU",
+            "disabled": false
+        },
+        {
+            "label": "ETA.PLT.001 - PLANALTINA DVO",
+            "key": "ETA.PLT.001 - PLANALTINA DVO",
+            "disabled": false
+        },
+        {
+            "label": "ETA.RDE.001 - BARRAGEM DESCOBERTO",
+            "key": "ETA.RDE.001 - BARRAGEM DESCOBERTO",
+            "disabled": false
+        },
+        {
+            "label": "ETA.RDE.001 - RIO DESCOBERTO-MOTO",
+            "key": "ETA.RDE.001 - RIO DESCOBERTO-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETA.SB1.002- CONTAGEM",
+            "key": "ETA.SB1.002- CONTAGEM",
+            "disabled": false
+        },
+        {
+            "label": "ETA.VAM.001 - VALE AMANHECER",
+            "key": "ETA.VAM.001 - VALE AMANHECER",
+            "disabled": false
+        },
+        {
+            "label": "ETE AGUAS LINDAS GOI\u00c1S - PORTARIA",
+            "key": "ETE AGUAS LINDAS GOI\u00c1S - PORTARIA",
+            "disabled": false
+        },
+        {
+            "label": "ETE AGUAS LINDAS GOI\u00c1S - RONDA MOTO",
+            "key": "ETE AGUAS LINDAS GOI\u00c1S - RONDA MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.ALG.001 - ALAGADO",
+            "key": "ETE.ALG.001 - ALAGADO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.ALG.001 - ALAGADO-MOTO",
+            "key": "ETE.ALG.001 - ALAGADO-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.BSB.001 - L4 SUL",
+            "key": "ETE.BSB.001 - L4 SUL",
+            "disabled": false
+        },
+        {
+            "label": "ETE.BSB.001 - L4 SUL-MOTO",
+            "key": "ETE.BSB.001 - L4 SUL-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.BSB.002 - L4 NORTE",
+            "key": "ETE.BSB.002 - L4 NORTE",
+            "disabled": false
+        },
+        {
+            "label": "ETE.BSB.002 - L4 NORTE-MOTO",
+            "key": "ETE.BSB.002 - L4 NORTE-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.GAM.001 - GAMA",
+            "key": "ETE.GAM.001 - GAMA",
+            "disabled": false
+        },
+        {
+            "label": "ETE.GAM.001 - GAMA-MOTO",
+            "key": "ETE.GAM.001 - GAMA-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.MLC.001 - MELCHIOR",
+            "key": "ETE.MLC.001 - MELCHIOR",
+            "disabled": false
+        },
+        {
+            "label": "ETE.MLC.001 - MELCHIOR-MOTO",
+            "key": "ETE.MLC.001 - MELCHIOR-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.PLT.001 - PLANALTINA",
+            "key": "ETE.PLT.001 - PLANALTINA",
+            "disabled": false
+        },
+        {
+            "label": "ETE.PLT.001 - PLANALTINA-MOTO",
+            "key": "ETE.PLT.001 - PLANALTINA-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.PRN.001 - PARANO\u00c1",
+            "key": "ETE.PRN.001 - PARANO\u00c1",
+            "disabled": false
+        },
+        {
+            "label": "ETE.PRN.001 - PARANO\u00c1-MOTO",
+            "key": "ETE.PRN.001 - PARANO\u00c1-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.RCE.001 - RECANTO",
+            "key": "ETE.RCE.001 - RECANTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.RCE.001 - RECANTO-MOTO",
+            "key": "ETE.RCE.001 - RECANTO-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.RF1.001 - RIACHO FUNDO-MOTO",
+            "key": "ETE.RF1.001 - RIACHO FUNDO-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.SB1.002 - SOBRADINHO-MOTO",
+            "key": "ETE.SB1.002 - SOBRADINHO-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.SMA.001 - SANTA MARIA",
+            "key": "ETE.SMA.001 - SANTA MARIA",
+            "disabled": false
+        },
+        {
+            "label": "ETE.SMA.001 - SANTA MARIA - MOTO",
+            "key": "ETE.SMA.001 - SANTA MARIA - MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.SSB.001 - S\u00c3O SEBASTI\u00c3O",
+            "key": "ETE.SSB.001 - S\u00c3O SEBASTI\u00c3O",
+            "disabled": false
+        },
+        {
+            "label": "ETE.SSB.001 - S\u00c3O SEBASTI\u00c3O-MOTO",
+            "key": "ETE.SSB.001 - S\u00c3O SEBASTI\u00c3O-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "ETE.VAM.001 - VALE AMANHECER- MOTO",
+            "key": "ETE.VAM.001 - VALE AMANHECER- MOTO",
+            "disabled": false
+        },
+        {
+            "label": "FARMACIA CENTRAL SIA LT I",
+            "key": "FARMACIA CENTRAL SIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "FARMACIA UBS 3 RIACHO FUNDO II - LT I",
+            "key": "FARMACIA UBS 3 RIACHO FUNDO II - LT I",
+            "disabled": false
+        },
+        {
+            "label": "FAZENDA PIQUET",
+            "key": "FAZENDA PIQUET",
+            "disabled": false
+        },
+        {
+            "label": "FEPECS ASA NORTE LT I",
+            "key": "FEPECS ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "FHB ASA NORTE LT I",
+            "key": "FHB ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "GAOAPS-SU GAMA  LT I",
+            "key": "GAOAPS-SU GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "GCEAF \/ NFCE ASA SUL LT I",
+            "key": "GCEAF \/ NFCE ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "GOLFINHO CEIL\u00c2NDIA",
+            "key": "GOLFINHO CEIL\u00c2NDIA",
+            "disabled": false
+        },
+        {
+            "label": "GOLFINHO ITAPO\u00c3",
+            "key": "GOLFINHO ITAPO\u00c3",
+            "disabled": false
+        },
+        {
+            "label": "HAB NOROESTE LT I",
+            "key": "HAB NOROESTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "HMIB ASA SUL LT I",
+            "key": "HMIB ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "HOSPITAL CIDADE DO SOL - IGES",
+            "key": "HOSPITAL CIDADE DO SOL - IGES",
+            "disabled": false
+        },
+        {
+            "label": "HOSPITAL ONCOLOGICO NOROESTE LT I",
+            "key": "HOSPITAL ONCOLOGICO NOROESTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "HRAN ASA NORTE LT I",
+            "key": "HRAN ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "HRBz BRAZLANDIA  LOTE II",
+            "key": "HRBz BRAZLANDIA  LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "HRC  CEILANDIA - LOTE II",
+            "key": "HRC  CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "HRG GAMA - LT I",
+            "key": "HRG GAMA - LT I",
+            "disabled": false
+        },
+        {
+            "label": "HRGu GUARA LT I",
+            "key": "HRGu GUARA LT I",
+            "disabled": false
+        },
+        {
+            "label": "HRLe PARANO\u00c1- LT I",
+            "key": "HRLe PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "HRPL PLANALTINA - LOTE III",
+            "key": "HRPL PLANALTINA - LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "HRSam SAMAMBAIA LT I",
+            "key": "HRSam SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "HRSM -SANTA MARIA - IGES",
+            "key": "HRSM -SANTA MARIA - IGES",
+            "disabled": false
+        },
+        {
+            "label": "HRSO SOBRADINHO -  LOTE III",
+            "key": "HRSO SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "HRT TAGUATINGA LT I",
+            "key": "HRT TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "HSVP TAGUATINGA LT I",
+            "key": "HSVP TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "IMOVEL IFB PLANALTINA - LOTE III",
+            "key": "IMOVEL IFB PLANALTINA - LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "ISM RIACHO FUNDO LT I",
+            "key": "ISM RIACHO FUNDO LT I",
+            "disabled": false
+        },
+        {
+            "label": "LAB.BSB.001 - LABORAT\u00d3RIO R-1",
+            "key": "LAB.BSB.001 - LABORAT\u00d3RIO R-1",
+            "disabled": false
+        },
+        {
+            "label": "LACEN ASA NORTE LT I",
+            "key": "LACEN ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "MONIT. ELETRONICO - ADMINISTRATIVO",
+            "key": "MONIT. ELETRONICO - ADMINISTRATIVO",
+            "disabled": false
+        },
+        {
+            "label": "NAOPME ASA SUL LT I",
+            "key": "NAOPME ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "NAPH CN-LE  ASA NORTE LT I",
+            "key": "NAPH CN-LE  ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "NAPH CS - SAMU RIACHO FUNDO LT I",
+            "key": "NAPH CS - SAMU RIACHO FUNDO LT I",
+            "disabled": false
+        },
+        {
+            "label": "NFCE Cei CEILANDIA - LOTE II",
+            "key": "NFCE Cei CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "NFCE GAMA  LT I",
+            "key": "NFCE GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "NIS PARANO\u00c1- LT I",
+            "key": "NIS PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "NIS S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "NIS S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISAS ASA SUL LT I",
+            "key": "NISAS ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISCand CANDANGOLANDIA  LT I",
+            "key": "NISCand CANDANGOLANDIA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISCV CRUZEIRO LT I",
+            "key": "NISCV CRUZEIRO LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISG GAMA  LT I",
+            "key": "NISG GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISGu GUARA LT I",
+            "key": "NISGu GUARA LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISLS LAGO SUL LT I",
+            "key": "NISLS LAGO SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISNB NUCLEO BANDEIRANTE  LT I",
+            "key": "NISNB NUCLEO BANDEIRANTE  LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISPL PLANALTINA - LOTE III",
+            "key": "NISPL PLANALTINA - LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "NISRE RECANTO DAS EMAS LT I",
+            "key": "NISRE RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISRF RIACHO FUNDO LT I",
+            "key": "NISRF RIACHO FUNDO LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISS SOBRADINHO -  LOTE III",
+            "key": "NISS SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "NISSam SAMAMBAIA LT I",
+            "key": "NISSam SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISSM SANTA MARIA LT I",
+            "key": "NISSM SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISTN TAGUATINGA LT I",
+            "key": "NISTN TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "NISTS TAGUATINGA LT I",
+            "key": "NISTS TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "NUCLEO DE LOGISTICA PLANALTINA - LOTE III",
+            "key": "NUCLEO DE LOGISTICA PLANALTINA - LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "NUPAV - SAMU SOBRADINHO -  LOTE III",
+            "key": "NUPAV - SAMU SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "OPERADORES CFTV - IGES",
+            "key": "OPERADORES CFTV - IGES",
+            "disabled": false
+        },
+        {
+            "label": "OPERADORES CFTV - IGES CT 547\/24",
+            "key": "OPERADORES CFTV - IGES CT 547\/24",
+            "disabled": false
+        },
+        {
+            "label": "OPERADORES CFTV - IGES CT- 555\/24",
+            "key": "OPERADORES CFTV - IGES CT- 555\/24",
+            "disabled": false
+        },
+        {
+            "label": "P.S DA CAESB-B P\u00c9ROLA- AGUAS LINDAS",
+            "key": "P.S DA CAESB-B P\u00c9ROLA- AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "PARQUE DE APOIO SIA LT I",
+            "key": "PARQUE DE APOIO SIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Operacional - Opera\u00e7\u00f5es De Seguran\u00e7a",
+            "key": "Pessoal - G&A Operacional - Opera\u00e7\u00f5es De Seguran\u00e7a",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Operacional - Opera\u00e7\u00f5es Eletronicas",
+            "key": "Pessoal - G&A Operacional - Opera\u00e7\u00f5es Eletronicas",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Operacional Operadores CFTV - CAESB",
+            "key": "Pessoal - G&A Operacional Operadores CFTV - CAESB",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Operacional Operadores CFTV - RESERVA T\u00c9CNICA",
+            "key": "Pessoal - G&A Operacional Operadores CFTV - RESERVA T\u00c9CNICA",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Operacional Operadores CFTV - SES LT I",
+            "key": "Pessoal - G&A Operacional Operadores CFTV - SES LT I",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Operacional Operadores CFTV - SES LT II",
+            "key": "Pessoal - G&A Operacional Operadores CFTV - SES LT II",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Operacional Operadores CFTV - SES LT III",
+            "key": "Pessoal - G&A Operacional Operadores CFTV - SES LT III",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Opera\u00e7\u00f5es De Seguran\u00e7a - Filial",
+            "key": "Pessoal - G&A Opera\u00e7\u00f5es De Seguran\u00e7a - Filial",
+            "disabled": false
+        },
+        {
+            "label": "Pessoal - G&A Supervis\u00e3o Rede Privada",
+            "key": "Pessoal - G&A Supervis\u00e3o Rede Privada",
+            "disabled": false
+        },
+        {
+            "label": "PO 700",
+            "key": "PO 700",
+            "disabled": false
+        },
+        {
+            "label": "POLICLINICA GAMA  LT I",
+            "key": "POLICLINICA GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "POLICLINICA LS LAGO SUL LT I",
+            "key": "POLICLINICA LS LAGO SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "POLICLINICA NUCLEO BANDEIRANTE  LT I",
+            "key": "POLICLINICA NUCLEO BANDEIRANTE  LT I",
+            "disabled": false
+        },
+        {
+            "label": "POLICLINICA RIACHO FUNDO I - LT I",
+            "key": "POLICLINICA RIACHO FUNDO I - LT I",
+            "disabled": false
+        },
+        {
+            "label": "POLICLINICA TAGUATINGA LT I",
+            "key": "POLICLINICA TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "PONTO DE APOIO CARIRU -PARANO\u00c1- LT I",
+            "key": "PONTO DE APOIO CARIRU -PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "PONTO DE APOIO UBS 1-PARANO\u00c1- LT I",
+            "key": "PONTO DE APOIO UBS 1-PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "PONTO DE APOIO UBS 12 GAMA  LT I",
+            "key": "PONTO DE APOIO UBS 12 GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "PONTO DE APOIO UBS 5 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "PONTO DE APOIO UBS 5 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "PORTARIA SEDE",
+            "key": "PORTARIA SEDE",
+            "disabled": false
+        },
+        {
+            "label": "PSE.GAM.001 - GAMA",
+            "key": "PSE.GAM.001 - GAMA",
+            "disabled": false
+        },
+        {
+            "label": "PSE.PLT.001 - PLANALTINA",
+            "key": "PSE.PLT.001 - PLANALTINA",
+            "disabled": false
+        },
+        {
+            "label": "PSE.RCE.001 - RECANTO EMAS",
+            "key": "PSE.RCE.001 - RECANTO EMAS",
+            "disabled": false
+        },
+        {
+            "label": "PSE.SIA.002 - PARQUE DE SERVI\u00c7O",
+            "key": "PSE.SIA.002 - PARQUE DE SERVI\u00c7O",
+            "disabled": false
+        },
+        {
+            "label": "PSE.SIA.002 - PARQUE DE SERVI\u00c7O- DIURNO",
+            "key": "PSE.SIA.002 - PARQUE DE SERVI\u00c7O- DIURNO",
+            "disabled": false
+        },
+        {
+            "label": "PSE.SIA.002 - PARQUE DE SERVI\u00c7O-MOTO",
+            "key": "PSE.SIA.002 - PARQUE DE SERVI\u00c7O-MOTO",
+            "disabled": false
+        },
+        {
+            "label": "PSE.SOB.001 - SOBRADINHO",
+            "key": "PSE.SOB.001 - SOBRADINHO",
+            "disabled": false
+        },
+        {
+            "label": "PSE.TAG.001 - TAGUATINGA",
+            "key": "PSE.TAG.001 - TAGUATINGA",
+            "disabled": false
+        },
+        {
+            "label": "PSR - APOIO  P DE SAUDE FAM UBS 7 - SOBRADINHO -  LOTE III",
+            "key": "PSR - APOIO  P DE SAUDE FAM UBS 7 - SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "PSR - APOIO - POSTO DE SAU FAM SOBRADINHO -  LOTE III",
+            "key": "PSR - APOIO - POSTO DE SAU FAM SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "RADIOTERAPIA TAGUATINGA LT I",
+            "key": "RADIOTERAPIA TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "RAP.CEI.001 - CEILANDIA",
+            "key": "RAP.CEI.001 - CEILANDIA",
+            "disabled": false
+        },
+        {
+            "label": "RAP.CRZ.001",
+            "key": "RAP.CRZ.001",
+            "disabled": false
+        },
+        {
+            "label": "RAP.LNT.001 - LAGO NORTE - PORTARIA",
+            "key": "RAP.LNT.001 - LAGO NORTE - PORTARIA",
+            "disabled": false
+        },
+        {
+            "label": "RAP.PPL.001 - PARQUE CIDADE",
+            "key": "RAP.PPL.001 - PARQUE CIDADE",
+            "disabled": false
+        },
+        {
+            "label": "RAP.PRP.001 - PARANO\u00c1 PARQUE",
+            "key": "RAP.PRP.001 - PARANO\u00c1 PARQUE",
+            "disabled": false
+        },
+        {
+            "label": "RAP.RF1.001 - RIACHO FUNDO I",
+            "key": "RAP.RF1.001 - RIACHO FUNDO I",
+            "disabled": false
+        },
+        {
+            "label": "RAP.SAM.002 - SAMAMBAIA",
+            "key": "RAP.SAM.002 - SAMAMBAIA",
+            "disabled": false
+        },
+        {
+            "label": "RAP.SHM.001 - MANGUEIRAL",
+            "key": "RAP.SHM.001 - MANGUEIRAL",
+            "disabled": false
+        },
+        {
+            "label": "RAP.SSB.001 - S\u00c3O SEBASTI\u00c3O",
+            "key": "RAP.SSB.001 - S\u00c3O SEBASTI\u00c3O",
+            "disabled": false
+        },
+        {
+            "label": "RAP.SSB.002 - S\u00c3O SEBASTI\u00c3O",
+            "key": "RAP.SSB.002 - S\u00c3O SEBASTI\u00c3O",
+            "disabled": false
+        },
+        {
+            "label": "RAP.TAG.001 - TAGUATINGA",
+            "key": "RAP.TAG.001 - TAGUATINGA",
+            "disabled": false
+        },
+        {
+            "label": "RES.AP.RAR-AL1- \u00c1GUAS LINDAS (DESL STA L\u00daCIA)",
+            "key": "RES.AP.RAR-AL1- \u00c1GUAS LINDAS (DESL STA L\u00daCIA)",
+            "disabled": false
+        },
+        {
+            "label": "RESERVA T\u00c9CNICA  - VALPARAISO GOIAS",
+            "key": "RESERVA T\u00c9CNICA  - VALPARAISO GOIAS",
+            "disabled": false
+        },
+        {
+            "label": "RESERVA T\u00c9CNICA - \u00c1GUAS LINDAS - GO",
+            "key": "RESERVA T\u00c9CNICA - \u00c1GUAS LINDAS - GO",
+            "disabled": false
+        },
+        {
+            "label": "Reserva T\u00e9cnica - Pessoal G&A Operacional",
+            "key": "Reserva T\u00e9cnica - Pessoal G&A Operacional",
+            "disabled": false
+        },
+        {
+            "label": "RESERVATORIO COIMBRA - AGUAS LINDAS",
+            "key": "RESERVATORIO COIMBRA - AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "RESERVAT\u00d3RIO JARDIM MADALENA - AGUAS LINDAS",
+            "key": "RESERVAT\u00d3RIO JARDIM MADALENA - AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "RONDA \u00c1GUA QUENTE",
+            "key": "RONDA \u00c1GUA QUENTE",
+            "disabled": false
+        },
+        {
+            "label": "RONDA ALAGADOS",
+            "key": "RONDA ALAGADOS",
+            "disabled": false
+        },
+        {
+            "label": "RONDA AUTOMOVEL - AGUAS LINDAS",
+            "key": "RONDA AUTOMOVEL - AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "RONDA AUTOMOVEL II - AGUAS LINDAS",
+            "key": "RONDA AUTOMOVEL II - AGUAS LINDAS",
+            "disabled": false
+        },
+        {
+            "label": "RONDA BASEVI",
+            "key": "RONDA BASEVI",
+            "disabled": false
+        },
+        {
+            "label": "RONDA BRAZL\u00c2NDIA",
+            "key": "RONDA BRAZL\u00c2NDIA",
+            "disabled": false
+        },
+        {
+            "label": "RONDA CATETINHO",
+            "key": "RONDA CATETINHO",
+            "disabled": false
+        },
+        {
+            "label": "RONDA FERCAL",
+            "key": "RONDA FERCAL",
+            "disabled": false
+        },
+        {
+            "label": "RONDA GUAR\u00c1",
+            "key": "RONDA GUAR\u00c1",
+            "disabled": false
+        },
+        {
+            "label": "RONDA ITAPO\u00c3",
+            "key": "RONDA ITAPO\u00c3",
+            "disabled": false
+        },
+        {
+            "label": "RONDA L4\/LAGO NORTE",
+            "key": "RONDA L4\/LAGO NORTE",
+            "disabled": false
+        },
+        {
+            "label": "RONDA LAGO SUL",
+            "key": "RONDA LAGO SUL",
+            "disabled": false
+        },
+        {
+            "label": "RONDA ORLA BARRAGEM DO DESCOBERTO",
+            "key": "RONDA ORLA BARRAGEM DO DESCOBERTO",
+            "disabled": false
+        },
+        {
+            "label": "RONDA PARANO\u00c1 PARK",
+            "key": "RONDA PARANO\u00c1 PARK",
+            "disabled": false
+        },
+        {
+            "label": "RONDA PLANALTINA",
+            "key": "RONDA PLANALTINA",
+            "disabled": false
+        },
+        {
+            "label": "RONDA POLO DE CINEMA",
+            "key": "RONDA POLO DE CINEMA",
+            "disabled": false
+        },
+        {
+            "label": "RONDA SANTA MARIA",
+            "key": "RONDA SANTA MARIA",
+            "disabled": false
+        },
+        {
+            "label": "RONDA S\u00c3O SEBASTI\u00c3O I",
+            "key": "RONDA S\u00c3O SEBASTI\u00c3O I",
+            "disabled": false
+        },
+        {
+            "label": "RONDA S\u00c3O SEBASTI\u00c3O II",
+            "key": "RONDA S\u00c3O SEBASTI\u00c3O II",
+            "disabled": false
+        },
+        {
+            "label": "RONDA SOBRADINHO",
+            "key": "RONDA SOBRADINHO",
+            "disabled": false
+        },
+        {
+            "label": "RONDA SOL NASCENTE",
+            "key": "RONDA SOL NASCENTE",
+            "disabled": false
+        },
+        {
+            "label": "RONDA VICENTE PIRES",
+            "key": "RONDA VICENTE PIRES",
+            "disabled": false
+        },
+        {
+            "label": "SAMU  GUARA LT I",
+            "key": "SAMU  GUARA LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU CANDANGOLANDIA  LT I",
+            "key": "SAMU CANDANGOLANDIA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU ESTRUTURAL LT I",
+            "key": "SAMU ESTRUTURAL LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU FERCAL LT I - ced HMIB",
+            "key": "SAMU FERCAL LT I - ced HMIB",
+            "disabled": false
+        },
+        {
+            "label": "SAMU PARANO\u00c1- LT I",
+            "key": "SAMU PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU QNG TAGUATINGA LT I",
+            "key": "SAMU QNG TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU RECANTO DAS EMAS LT I",
+            "key": "SAMU RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "SAMU S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU SIA LT I",
+            "key": "SAMU SIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "SAMU SOBRADINHO -  LOTE III",
+            "key": "SAMU SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "SE - ETA CORUMB\u00c1 - VALPARAISO GOIAS",
+            "key": "SE - ETA CORUMB\u00c1 - VALPARAISO GOIAS",
+            "disabled": false
+        },
+        {
+            "label": "SEDE ADMINISTRATIVA PO 700 - ASA NORTE LT I",
+            "key": "SEDE ADMINISTRATIVA PO 700 - ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "SEDE CAESB",
+            "key": "SEDE CAESB",
+            "disabled": false
+        },
+        {
+            "label": "SEDE CAESB - DIURNO",
+            "key": "SEDE CAESB - DIURNO",
+            "disabled": false
+        },
+        {
+            "label": "SES - Sg&A Administrativo - TI",
+            "key": "SES - Sg&A Administrativo - TI",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Caesb - Isbet",
+            "key": "Sg&A Adm - Aprendizes Caesb - Isbet",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.1",
+            "key": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.1",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.13",
+            "key": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.13",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.14",
+            "key": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.14",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.15",
+            "key": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.15",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.2",
+            "key": "Sg&A Adm - Aprendizes Social - SENAC 2026.38.2",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac I",
+            "key": "Sg&A Adm - Aprendizes Social - Senac I",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac II",
+            "key": "Sg&A Adm - Aprendizes Social - Senac II",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac III",
+            "key": "Sg&A Adm - Aprendizes Social - Senac III",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac IV",
+            "key": "Sg&A Adm - Aprendizes Social - Senac IV",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac IX Ceilandia",
+            "key": "Sg&A Adm - Aprendizes Social - Senac IX Ceilandia",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac V",
+            "key": "Sg&A Adm - Aprendizes Social - Senac V",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac VI",
+            "key": "Sg&A Adm - Aprendizes Social - Senac VI",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac VII",
+            "key": "Sg&A Adm - Aprendizes Social - Senac VII",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Aprendizes Social - Senac VIII",
+            "key": "Sg&A Adm - Aprendizes Social - Senac VIII",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Recursos Humanos - Filial",
+            "key": "Sg&A Adm - Recursos Humanos - Filial",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Adm - Seguran\u00e7a do Trabalho",
+            "key": "Sg&A Adm - Seguran\u00e7a do Trabalho",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Adm Geral",
+            "key": "Sg&A Administrativo - Adm Geral",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Almoxarifado",
+            "key": "Sg&A Administrativo - Almoxarifado",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Almoxarifado - Filial",
+            "key": "Sg&A Administrativo - Almoxarifado - Filial",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Almoxarifado de Uniforme",
+            "key": "Sg&A Administrativo - Almoxarifado de Uniforme",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Almoxarifado de Uniforme - Filial",
+            "key": "Sg&A Administrativo - Almoxarifado de Uniforme - Filial",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Almoxarifado Suprimentos",
+            "key": "Sg&A Administrativo - Almoxarifado Suprimentos",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Aprendizes",
+            "key": "Sg&A Administrativo - Aprendizes",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Arquivo",
+            "key": "Sg&A Administrativo - Arquivo",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Compras",
+            "key": "Sg&A Administrativo - Compras",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Compras - Filial",
+            "key": "Sg&A Administrativo - Compras - Filial",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Conta Vinculada",
+            "key": "Sg&A Administrativo - Conta Vinculada",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Cont\u00e1bil",
+            "key": "Sg&A Administrativo - Cont\u00e1bil",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Departamento Pessoal",
+            "key": "Sg&A Administrativo - Departamento Pessoal",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Financeiro",
+            "key": "Sg&A Administrativo - Financeiro",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Financeiro - Filial",
+            "key": "Sg&A Administrativo - Financeiro - Filial",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Fiscal",
+            "key": "Sg&A Administrativo - Fiscal",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Planejamento",
+            "key": "Sg&A Administrativo - Planejamento",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Ponto Eletr\u00f4nico",
+            "key": "Sg&A Administrativo - Ponto Eletr\u00f4nico",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Recep\u00e7\u00e3o",
+            "key": "Sg&A Administrativo - Recep\u00e7\u00e3o",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Recursos Humanos",
+            "key": "Sg&A Administrativo - Recursos Humanos",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Seguran\u00e7a Do Trabalho",
+            "key": "Sg&A Administrativo - Seguran\u00e7a Do Trabalho",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - Servi\u00e7os Gerais",
+            "key": "Sg&A Administrativo - Servi\u00e7os Gerais",
+            "disabled": false
+        },
+        {
+            "label": "Sg&A Administrativo - TI",
+            "key": "Sg&A Administrativo - TI",
+            "disabled": false
+        },
+        {
+            "label": "Sindesv - Pessoal G&A Operacional",
+            "key": "Sindesv - Pessoal G&A Operacional",
+            "disabled": false
+        },
+        {
+            "label": "SUPERINTEND\u00caNCIA PARANO\u00c1- LT I",
+            "key": "SUPERINTEND\u00caNCIA PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "SUPERVIS\u00c3O  CAESB",
+            "key": "SUPERVIS\u00c3O  CAESB",
+            "disabled": false
+        },
+        {
+            "label": "SUPERVIS\u00c3O-  AGUAS LINDAS DE GOIAS",
+            "key": "SUPERVIS\u00c3O-  AGUAS LINDAS DE GOIAS",
+            "disabled": false
+        },
+        {
+            "label": "Turma 1 - Vigilantes Aprendizes",
+            "key": "Turma 1 - Vigilantes Aprendizes",
+            "disabled": false
+        },
+        {
+            "label": "UAA  SAMAMBAIA LT I",
+            "key": "UAA  SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1  CRUZEIRO LT I",
+            "key": "UBS 1  CRUZEIRO LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1  RIACHO FUNDO II - LT I",
+            "key": "UBS 1  RIACHO FUNDO II - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 \u00c1GUAS CLARAS  LT I",
+            "key": "UBS 1 \u00c1GUAS CLARAS  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 ASA NORTE LT I",
+            "key": "UBS 1 ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 ASA SUL LT I",
+            "key": "UBS 1 ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 CANDANGOLANDIA  LT I",
+            "key": "UBS 1 CANDANGOLANDIA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 CEILANDIA - LOTE II",
+            "key": "UBS 1 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 ESTRUTURAL LT I",
+            "key": "UBS 1 ESTRUTURAL LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 FERCAL LT I",
+            "key": "UBS 1 FERCAL LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 GAMA  LT I",
+            "key": "UBS 1 GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 GUARA LT I",
+            "key": "UBS 1 GUARA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 ITAPO\u00c3 - LT 01",
+            "key": "UBS 1 ITAPO\u00c3 - LT 01",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 LAGO NORTE  LT I",
+            "key": "UBS 1 LAGO NORTE  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 MANGUEIRAL- LT I",
+            "key": "UBS 1 MANGUEIRAL- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 NUCLEO BANDEIRANTE  LT I",
+            "key": "UBS 1 NUCLEO BANDEIRANTE  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 PARANO\u00c1- LT I",
+            "key": "UBS 1 PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 PARK WAY LT I",
+            "key": "UBS 1 PARK WAY LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 RECANTO DAS EMAS LT I",
+            "key": "UBS 1 RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 RIACHO FUNDO I  LT I",
+            "key": "UBS 1 RIACHO FUNDO I  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 SAMAMBAIA LT I",
+            "key": "UBS 1 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 SANTA MARIA LT I",
+            "key": "UBS 1 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 1 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 SOBRADINHO -  LOTE III",
+            "key": "UBS 1 SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 TAGUATINGA LT I",
+            "key": "UBS 1 TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 VARJ\u00c3O LT I",
+            "key": "UBS 1 VARJ\u00c3O LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1 VICENTE PIRES LT I -ced Samu QNJ, QNG, HRT",
+            "key": "UBS 1 VICENTE PIRES LT I -ced Samu QNJ, QNG, HRT",
+            "disabled": false
+        },
+        {
+            "label": "UBS 1- SOBRADINHO II -  LOTE III",
+            "key": "UBS 1- SOBRADINHO II -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 10  RECANTO DAS EMAS LT I",
+            "key": "UBS 10  RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 10 SAMAMBAIA LT I",
+            "key": "UBS 10 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 10 SANTA MARIA LT I",
+            "key": "UBS 10 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 10 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 10 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 11 GAMA  LT I",
+            "key": "UBS 11 GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 11 RECANTO DAS EMAS LT I",
+            "key": "UBS 11 RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 11 SAMAMBAIA LT I",
+            "key": "UBS 11 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 11 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 11 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 12 CEILANDIA - LOTE II",
+            "key": "UBS 12 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 12 GAMA  LT I",
+            "key": "UBS 12 GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 12 SAMAMBAIA LT I",
+            "key": "UBS 12 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 12 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 12 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 13 CEILANDIA - LOTE II",
+            "key": "UBS 13 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 13 GAMA  LT I",
+            "key": "UBS 13 GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 13 II SAMAMBAIA LT I - ced HRsam",
+            "key": "UBS 13 II SAMAMBAIA LT I - ced HRsam",
+            "disabled": false
+        },
+        {
+            "label": "UBS 13 SAMAMBAIA LT I",
+            "key": "UBS 13 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 14 I  CEILANDIA - LOTE II - ced cober. contrato",
+            "key": "UBS 14 I  CEILANDIA - LOTE II - ced cober. contrato",
+            "disabled": false
+        },
+        {
+            "label": "UBS 14 II  CEILANDIA - LOTE II",
+            "key": "UBS 14 II  CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 15 CEILANDIA - LOTE II",
+            "key": "UBS 15 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 16  CEILANDIA - LOTE II",
+            "key": "UBS 16  CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 17 CEILANDIA - LOTE II",
+            "key": "UBS 17 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 18 CEILANDIA - LOTE II",
+            "key": "UBS 18 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 19 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 19 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2  CRUZEIRO LT I",
+            "key": "UBS 2  CRUZEIRO LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2  PARANO\u00c1- LT I",
+            "key": "UBS 2  PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2  RECANTO DAS EMAS LT I",
+            "key": "UBS 2  RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2  RIACHO FUNDO I LT I",
+            "key": "UBS 2  RIACHO FUNDO I LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2  RIACHO FUNDO II - LT I",
+            "key": "UBS 2  RIACHO FUNDO II - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 \u00c1GUAS CLARAS  LT I",
+            "key": "UBS 2 \u00c1GUAS CLARAS  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 ASA NORTE LT I",
+            "key": "UBS 2 ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 CEILANDIA - LOTE II",
+            "key": "UBS 2 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 ESTRUTURAL LT I",
+            "key": "UBS 2 ESTRUTURAL LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 FERCAL LT I",
+            "key": "UBS 2 FERCAL LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 GAMA  LT I",
+            "key": "UBS 2 GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 GUARA LT I",
+            "key": "UBS 2 GUARA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 ITAPO\u00c3 - LT 01",
+            "key": "UBS 2 ITAPO\u00c3 - LT 01",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 NUCLEO BANDEIRANTE  LT I",
+            "key": "UBS 2 NUCLEO BANDEIRANTE  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 REC QD 101\/102  RECANTO DAS EMAS LT I - ced HRT",
+            "key": "UBS 2 REC QD 101\/102  RECANTO DAS EMAS LT I - ced HRT",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 SAMAMBAIA LT I",
+            "key": "UBS 2 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 SANTA MARIA LT I",
+            "key": "UBS 2 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 2 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 SOBRADINHO -  LOTE III",
+            "key": "UBS 2 SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2 TAGUATINGA LT I",
+            "key": "UBS 2 TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 2- SOBRADINHO II -  LOTE III",
+            "key": "UBS 2- SOBRADINHO II -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3  GAMA  LT I",
+            "key": "UBS 3  GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3  ITAPO\u00c3 - LT 01",
+            "key": "UBS 3  ITAPO\u00c3 - LT 01",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3  PARANO\u00c1- LT I",
+            "key": "UBS 3  PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3  RECANTO DAS EMAS LT I",
+            "key": "UBS 3  RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3  RIACHO FUNDO II - LT I",
+            "key": "UBS 3  RIACHO FUNDO II - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 ASA NORTE LT I",
+            "key": "UBS 3 ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 CEILANDIA - LOTE II",
+            "key": "UBS 3 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 FERCAL LT I",
+            "key": "UBS 3 FERCAL LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 GUARA LT I",
+            "key": "UBS 3 GUARA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 SAMAMBAIA LT I",
+            "key": "UBS 3 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 SANTA MARIA LT I",
+            "key": "UBS 3 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 3 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 SOBRADINHO -  LOTE III",
+            "key": "UBS 3 SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 SOBRADINHO II -  LOTE III",
+            "key": "UBS 3 SOBRADINHO II -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 3 TAGUATINGA LT I",
+            "key": "UBS 3 TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4  GAMA  LT I",
+            "key": "UBS 4  GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4  PARANO\u00c1- LT I",
+            "key": "UBS 4  PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4  RECANTO DAS EMAS LT I",
+            "key": "UBS 4  RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4  RIACHO FUNDO II - LT I",
+            "key": "UBS 4  RIACHO FUNDO II - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4 CEILANDIA - LOTE II",
+            "key": "UBS 4 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4 GUARA LT I",
+            "key": "UBS 4 GUARA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4 SAMAMBAIA LT I",
+            "key": "UBS 4 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 4 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4 SOBRADINHO -  LOTE III",
+            "key": "UBS 4 SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 4- SOBRADINHO II -  LOTE III",
+            "key": "UBS 4- SOBRADINHO II -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5  GAMA  LT I",
+            "key": "UBS 5  GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5  RECANTO DAS EMAS LT I",
+            "key": "UBS 5  RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 ASA NORTE LT I",
+            "key": "UBS 5 ASA NORTE LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 CEILANDIA - LOTE II",
+            "key": "UBS 5 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 GUARA LT I - ced UBS I Riacho I",
+            "key": "UBS 5 GUARA LT I - ced UBS I Riacho I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 PARANO\u00c1- LT I",
+            "key": "UBS 5 PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 RIACHO FUNDO II - LT I",
+            "key": "UBS 5 RIACHO FUNDO II - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 SAMAMBAIA LT I",
+            "key": "UBS 5 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 SANTA MARIA LT I",
+            "key": "UBS 5 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 5 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 SOBRADINHO -  LOTE III",
+            "key": "UBS 5 SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5 TAGUATINGA LT I",
+            "key": "UBS 5 TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 5- SOBRADINHO II -  LOTE III",
+            "key": "UBS 5- SOBRADINHO II -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6  GAMA  LT I",
+            "key": "UBS 6  GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6 PARANO\u00c1- LT I",
+            "key": "UBS 6 PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6 SAMAMBAIA LT I",
+            "key": "UBS 6 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6 SANTA MARIA LT I",
+            "key": "UBS 6 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 6 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6 SOBRADINHO -  LOTE III",
+            "key": "UBS 6 SOBRADINHO -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6 TAGUATINGA LT I",
+            "key": "UBS 6 TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 6- SOBRADINHO II -  LOTE III",
+            "key": "UBS 6- SOBRADINHO II -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7  GAMA  LT I",
+            "key": "UBS 7  GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7 - SOBRADINHO II -  LOTE III",
+            "key": "UBS 7 - SOBRADINHO II -  LOTE III",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7 CEILANDIA - LOTE II",
+            "key": "UBS 7 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7 PARANO\u00c1- LT I",
+            "key": "UBS 7 PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7 SAMAMBAIA LT I",
+            "key": "UBS 7 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7 SANTA MARIA LT I",
+            "key": "UBS 7 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 7 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 7 TAGUATINGA LT I",
+            "key": "UBS 7 TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 8  RECANTO DAS EMAS LT I",
+            "key": "UBS 8  RECANTO DAS EMAS LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 8 CEILANDIA - LOTE II",
+            "key": "UBS 8 CEILANDIA - LOTE II",
+            "disabled": false
+        },
+        {
+            "label": "UBS 8 PARANO\u00c1- LT I",
+            "key": "UBS 8 PARANO\u00c1- LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 8 SAMAMBAIA LT I",
+            "key": "UBS 8 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 8 SANTA MARIA LT I",
+            "key": "UBS 8 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 8 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 8 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 8 TAGUATINGA LT I",
+            "key": "UBS 8 TAGUATINGA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 9 GAMA  LT I",
+            "key": "UBS 9 GAMA  LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 9 SAMAMBAIA LT I",
+            "key": "UBS 9 SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS 9 S\u00c3O SEBASTI\u00c3O - LT I",
+            "key": "UBS 9 S\u00c3O SEBASTI\u00c3O - LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS DNOCS - SOBRADINHO -  LOTE III - ced HRSO",
+            "key": "UBS DNOCS - SOBRADINHO -  LOTE III - ced HRSO",
+            "disabled": false
+        },
+        {
+            "label": "UBS QN 8 C RIACHO FUNDO II - antiga creche LT I",
+            "key": "UBS QN 8 C RIACHO FUNDO II - antiga creche LT I",
+            "disabled": false
+        },
+        {
+            "label": "UBS VILA NOVA S\u00c3O SEBASTI\u00c3O - LT I ced TRE",
+            "key": "UBS VILA NOVA S\u00c3O SEBASTI\u00c3O - LT I ced TRE",
+            "disabled": false
+        },
+        {
+            "label": "UCAD-IGES\/DF",
+            "key": "UCAD-IGES\/DF",
+            "disabled": false
+        },
+        {
+            "label": "UNIDADE DE ARQUIVO SAMAMBAIA LT I",
+            "key": "UNIDADE DE ARQUIVO SAMAMBAIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UNIDADE DE CONTROLE QU\u00cdMICO ASA SUL LT I",
+            "key": "UNIDADE DE CONTROLE QU\u00cdMICO ASA SUL LT I",
+            "disabled": false
+        },
+        {
+            "label": "UNIDADE II UBS 06 SANTA MARIA LT I",
+            "key": "UNIDADE II UBS 06 SANTA MARIA LT I",
+            "disabled": false
+        },
+        {
+            "label": "UPA BRAZLANDIA",
+            "key": "UPA BRAZLANDIA",
+            "disabled": false
+        },
+        {
+            "label": "UPA CEILANDIA I",
+            "key": "UPA CEILANDIA I",
+            "disabled": false
+        },
+        {
+            "label": "UPA CEILANDIA II",
+            "key": "UPA CEILANDIA II",
+            "disabled": false
+        },
+        {
+            "label": "UPA GAMA",
+            "key": "UPA GAMA",
+            "disabled": false
+        },
+        {
+            "label": "UPA NUCLEO BANDEIRANTE",
+            "key": "UPA NUCLEO BANDEIRANTE",
+            "disabled": false
+        },
+        {
+            "label": "UPA PARANO\u00c1",
+            "key": "UPA PARANO\u00c1",
+            "disabled": false
+        },
+        {
+            "label": "UPA PLANALTINA",
+            "key": "UPA PLANALTINA",
+            "disabled": false
+        },
+        {
+            "label": "UPA RECANTO DAS EMAS",
+            "key": "UPA RECANTO DAS EMAS",
+            "disabled": false
+        },
+        {
+            "label": "UPA RIACHO FUNDO II",
+            "key": "UPA RIACHO FUNDO II",
+            "disabled": false
+        },
+        {
+            "label": "UPA SAMAMBAIA",
+            "key": "UPA SAMAMBAIA",
+            "disabled": false
+        },
+        {
+            "label": "UPA S\u00c3O SEBASTI\u00c3O",
+            "key": "UPA S\u00c3O SEBASTI\u00c3O",
+            "disabled": false
+        },
+        {
+            "label": "UPA SOBRADINHO",
+            "key": "UPA SOBRADINHO",
+            "disabled": false
+        },
+        {
+            "label": "UPA VICENTE PIRES",
+            "key": "UPA VICENTE PIRES",
+            "disabled": false
+        },
+        {
+            "label": "UTS.ALG.001",
+            "key": "UTS.ALG.001",
+            "disabled": false
+        },
+        {
+            "label": "VACINA\u00c7\u00c3O DE \u00c1GUAS CLARAS  LT I",
+            "key": "VACINA\u00c7\u00c3O DE \u00c1GUAS CLARAS  LT I",
+            "disabled": false
+        },
+        {
+            "label": "Vigil\u00e2ncia - Diretoria",
+            "key": "Vigil\u00e2ncia - Diretoria",
+            "disabled": false
+        }
+    ]
+}
